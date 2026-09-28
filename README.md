@@ -42,10 +42,10 @@ The API is available at http://localhost:8080
 How to test
 You can use Postman or a similar tool:
 
-GET http://localhost:8080/transactions
-POST http://localhost:8080/transactions
-DELETE http://localhost:8080/transactions/1
-GET http://localhost:8080/transactions/summary
+- GET http://localhost:8080/transactions
+- POST http://localhost:8080/transactions
+- DELETE http://localhost:8080/transactions/1
+- GET http://localhost:8080/transactions/summary
 
 You can also view the database at:
 http://localhost:8080/h2-console
