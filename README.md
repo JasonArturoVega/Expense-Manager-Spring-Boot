@@ -15,7 +15,8 @@ A REST API for a personal expense manager built with Java and Spring Boot.
 
 ## Screenshots
 
-([https://github.com/JasonArturoVega/Contact-List/blob/master/src/Images/Screenshot.png](https://github.com/JasonArturoVega/Expense-Manager-Spring-Boot/blob/master/src/images/Screenshot%201.png))
+(https://github.com/JasonArturoVega/Expense-Manager-Spring-Boot/blob/master/src/images/Screenshot%201.png)
+(https://github.com/JasonArturoVega/Expense-Manager-Spring-Boot/blob/master/src/images/Screenshot%201.png)
 
 ## Technologies
 
