@@ -32,16 +32,6 @@ A REST API for a personal expense manager built with Java and Spring Boot.
 | DELETE | `/transactions/{id}` | Deletes a transaction |
 | GET | `/transactions/summary` | Returns totals |
 
-### Creation example (`POST /transactions`)
-
-```json
-{
-"amount": 1500,
-"type": "EXPENSE",
-"category": "FOOD",
-"description": "Lunch"
-}
-
 ## How to run
 
 Clone the repository
@@ -66,3 +56,13 @@ Persistence with JPA
 REST endpoint design
 Basic validation
 Handling "resource not found" scenarios
+
+### Creation example (`POST /transactions`)
+
+```json
+{
+"amount": 1500,
+"type": "EXPENSE",
+"category": "FOOD",
+"description": "Lunch"
+}
